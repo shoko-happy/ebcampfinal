@@ -1,0 +1,12 @@
+{
+    "name": "shoko/kfin",
+    "authors": [
+        {
+            "name": "shoko-happy",
+            "email": "80142137+shoko-happy@users.noreply.github.com"
+        }
+    ],
+    "require": {
+        "phpoffice/phpspreadsheet": "^1.17"
+    }
+}
